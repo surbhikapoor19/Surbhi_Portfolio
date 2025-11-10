@@ -29,7 +29,7 @@ Demonstrated that psychological distress can be predicted from readily available
 
 **Impact:** This work provides a practical framework for mental health screening programs using accessible data points, enabling early identification and personalized preventative care without requiring invasive testing or extensive medical history.
 
-<img src=/images/mental_health_eda.png width="75%"></img> 
+![mental_health_eda](/images/mental_health_eda.png)
 ------------
 
 ## [Assessing Underserved Regions (using ML) - NYC Transit System](https://github.com/We-Gold/ds-501-cs4-public)
