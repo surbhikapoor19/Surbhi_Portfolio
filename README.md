@@ -4,7 +4,7 @@
 
 
 
-## [Mental Health Risk Prediction: NHIS Analysis]()
+## [Mental Health Risk Prediction: NHIS Analysis](https://github.com/surbhikapoor19/nhis_mental_health_survey)
 **Research Question:** Can a machine learning model using baseline demographic, behavioral, and social factors predict future psychological distress (K6 ≥ 5) with ≥70% accuracy, and identify the most important modifiable risk factors for early intervention?
 Dataset: 2024 National Health Interview Survey (NHIS) from the CDC's National Center for Health Statistics
 
