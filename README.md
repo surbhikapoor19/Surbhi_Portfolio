@@ -14,15 +14,11 @@ Target: K6 psychological distress score (Kessler-6 scale)
 
 **Approach:**
 
-Data Engineering: Built a custom parser to convert 630 cryptic variable codes from the NHIS codebook into human-readable features for interpretability
-
-Feature Engineering: Created binary at-risk classification (K6 ≥ 5) and conducted comprehensive exploratory analysis to identify patterns in demographic, behavioral, and social factors
-
-Modeling: Developed two Random Forest classifiers:
-
-Binary model predicting at-risk vs. not at-risk status;
-
-Multi-class model predicting exact K6 scores (0-24) for severity profiling
+- _Data Engineering:_ Built a custom parser to convert 630 cryptic variable codes from the NHIS codebook into human-readable features for interpretability
+- _Feature Engineering:_ Created binary at-risk classification (K6 ≥ 5) and conducted comprehensive exploratory analysis to identify patterns in demographic, behavioral, and social factors
+- _Modeling:_ Developed two Random Forest classifiers:
+  - Binary model predicting at-risk vs. not at-risk status;
+  - Multi-class model predicting exact K6 scores (0-24) for severity profiling
 
 **Results:**
 
@@ -31,9 +27,9 @@ Successfully identified at-risk individuals using only accessible survey data (n
 Extracted interpretable feature importance rankings to guide early intervention strategies
 Demonstrated that psychological distress can be predicted from readily available demographic and behavioral information
 
-Impact: This work provides a practical framework for mental health screening programs using accessible data points, enabling early identification and personalized preventative care without requiring invasive testing or extensive medical history.
+**Impact:** This work provides a practical framework for mental health screening programs using accessible data points, enabling early identification and personalized preventative care without requiring invasive testing or extensive medical history.
 
-<img src="https://github.com/surbhikapoor19/Surbhi_Portfolio/blob/main/images/mental_health_eda.png" width="75%"></img> 
+<img src=images/mental_health_eda.png width="75%"></img> 
 ------------
 
 ## [Assessing Underserved Regions (using ML) - NYC Transit System](https://github.com/We-Gold/ds-501-cs4-public)
@@ -44,7 +40,7 @@ To solve this problem, we determined the average distance to a transit station f
 Our data science approach will not only enable us to identify underserved areas but also to predict ridership for these areas. The resulting decision-making platform will enable the MTA to more readily evaluate potential locations for transit stops/stations rather than having to manually sort through all options.
 
 
-<img src="https://github.com/surbhikapoor19/Surbhi_Portfolio/blob/main/images/nyc_project_areas_of_opportunity.png" width="75%"></img> 
+<img src=images/nyc_project_areas_of_opportunity.png width="75%"></img> 
 <!--
 Source - https://stackoverflow.com/a
 Posted by Tieme, modified by community. See post 'Timeline' for change history
@@ -58,5 +54,5 @@ A full-stack carbon emissions tracking system for Worcester Polytechnic Institut
 **My Contributions**: Collaborated on database architecture design and implementation using PostgreSQL with SQLModel ORM. Built the complete emissions calculation stack with speed-based emission factors (0.062-0.82 kg CO2e per tonne-km) and integrated multiple shipping carrier APIs (UPS, FedEx, USPS, DHL) using modular adapter patterns to normalize disparate response formats. Optimized processing performance from 1 to 12-14 packages/second through concurrent processing with ThreadPoolExecutor and intelligent geocoding caching strategies. Developed SQLModel-based FastAPI endpoints powering frontend data queries and visualization.
 
 Technologies: Python, FastAPI, PostgreSQL, SQLModel, Multi-Carrier APIs, Concurrent Processing
-<img src="https://github.com/surbhikapoor19/Surbhi_Portfolio/blob/main/images/package_details_greenboard.png" width="45%"></img> <img src="https://github.com/surbhikapoor19/Surbhi_Portfolio/blob/main/images/leaderboard_greenboard.png" width="45%"></img> 
+<img src=images/package_details_greenboard.png width="45%"></img> <img src=images/leaderboard_greenboard.png width="45%"></img> 
 
