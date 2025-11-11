@@ -79,3 +79,7 @@ Technologies: Python, FastAPI, PostgreSQL, SQLModel, Multi-Carrier APIs, Concurr
 ### [Receipts OCR Segmentation - Customizable code for segmenting receipt like documents](https://github.com/surbhikapoor19/receipts_ocr_segmentation)
 ### [Statistical Machine Learning for Insights on Supermarket Style Data](https://github.com/surbhikapoor19/ds502-project)
 
+# Contact Details
+email: surbhi.kapoor19@gmail.com
+linkedin: [Linkedin Profile](https://www.linkedin.com/in/surbhikapoor19/)
+github: [@surbhikapoor19](https://github.com/surbhikapoor19)
