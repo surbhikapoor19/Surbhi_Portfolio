@@ -80,6 +80,4 @@ Technologies: Python, FastAPI, PostgreSQL, SQLModel, Multi-Carrier APIs, Concurr
 ### [Statistical Machine Learning for Insights on Supermarket Style Data](https://github.com/surbhikapoor19/ds502-project)
 
 # Contact Details
-email: surbhi.kapoor19@gmail.com
-linkedin: [Linkedin Profile](https://www.linkedin.com/in/surbhikapoor19/)
-github: [@surbhikapoor19](https://github.com/surbhikapoor19)
+## surbhi.kapoor19@gmail.com |[Linkedin Profile](https://www.linkedin.com/in/surbhikapoor19/) | [@surbhikapoor19](https://github.com/surbhikapoor19) |
