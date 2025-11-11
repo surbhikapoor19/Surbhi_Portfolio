@@ -97,8 +97,8 @@ Built a carbon emissions tracking system with multi-carrier API integration and 
 
 ## Other Standalone Projects
 
-- [Receipts OCR Segmentation](https://github.com/surbhikapoor19/receipts_ocr_segmentation)  
-- [Statistical ML on Supermarket Data](https://github.com/surbhikapoor19/ds502-project)
+### [Receipts OCR Segmentation](https://github.com/surbhikapoor19/receipts_ocr_segmentation)  
+### [Statistical ML on Supermarket Data](https://github.com/surbhikapoor19/ds502-project)
 
 ---
 
