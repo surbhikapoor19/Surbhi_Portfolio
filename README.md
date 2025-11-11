@@ -48,7 +48,7 @@ I am currently enjoying being in an academic environment where I get to research
 
 **Impact:** Demonstrates that early mental health screening can be done using accessible data sources.
 
-<img src=/images/mental_health_eda.png width="100%">
+![](/images/mental_health_eda.png)
 
 
 ---
@@ -60,7 +60,7 @@ I am currently enjoying being in an academic environment where I get to research
 
 Identified underserved regions by calculating accessibility gaps and modeled predicted ridership and revenue to support investment decisions.
 
-<img src=/images/nyc_project_areas_of_opportunity.png width="100%">
+![](/images/nyc_project_areas_of_opportunity.png)
 
 
 ---
@@ -72,7 +72,7 @@ Identified underserved regions by calculating accessibility gaps and modeled pre
 
 Built a carbon emissions tracking system with multi-carrier API integration and optimized batch geocoding and throughput performance.
 
-<img src=/images/package_details_greenboard.png width="49%"> <img src=/images/leaderboard_greenboard.png width="49%">
+![](images/package_details_greenboard.png)![](/images/leaderboard_greenboard.png)
 
 
 ---
