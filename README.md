@@ -1,13 +1,6 @@
 # Surbhi Kapoor
 ## Overview 
-Hi:) I am a Data Scientist currently pursuing my Masters in Data Science. I have worked in the industry for 6+ years - multitasking but mostly building out ML pipelines from ideation to deployment. I have worked with various libraries and suplement database related work with SQL. 
-
-My work involes:
-  - Fine tuning transformer
-  - Setting up AI workflows using various state of the art APIs across various proiders
-  - Building and tuning statistical and other machine learning models and their pipelines
-  - Carrying out data analysis, reporting and inferences on variety of datasets
-  - Building out visualizations, business intelligence dashboards and model performance dashboards
+Hi:) I am a Data Scientist currently pursuing my Masters in Data Science. I have worked in the industry for 6+ years - I specialize in building NLP and ML systems end to end, from data preparation and model training to deployment, monitoring, and communicating results to product and business teams.
     
 Currently I am thoroughly enjoying being in the academic space and learning, researching as well as experimenting to my hearts content. I enjoy challenges and am always looking to problem solve in creative and  efficent ways. 
 
@@ -85,6 +78,20 @@ Technologies: Python, FastAPI, PostgreSQL, SQLModel, Multi-Carrier APIs, Concurr
 ## Other Standalone Projects 
 ### 1. [Receipts OCR Segmentation - Customizable code for segmenting receipt like documents](https://github.com/surbhikapoor19/receipts_ocr_segmentation)
 ### 2. [Statistical Machine Learning for Insights on Supermarket Style Data](https://github.com/surbhikapoor19/ds502-project)
+
+
+## Skills & Tools
+
+| **Category**                | **Skills** |
+|----------------------------|-----------|
+| Languages                  | Python, SQL |
+| ML & NLP                   | Hugging Face Transformers, BERT, LayoutLMv3, SentenceTransformers, XGBoost, Random Forest, Text Classification, Entity Extraction |
+| Generative AI & Agents     | OpenAI APIs, Prompt Engineering, Agentic Workflows, RAG, OCR-assisted modeling |
+| Data Analysis              | pandas, NumPy, EDA, Data Cleaning, Feature Engineering |
+| Deployment & APIs          | FastAPI, Docker, AWS, PostgreSQL + pgvector, Microservice Design |
+| Visualization & BI         | Plotly, Power BI, SQL Dashboards, Insight Communication |
+| Workflow & Collaboration   | Git, GitHub, Experimentation Cycles, Stakeholder Communication |
+
 
 # Contact Details
 #### surbhi.kapoor19@gmail.com |[Linkedin Profile](https://www.linkedin.com/in/surbhikapoor19/) | [@surbhikapoor19](https://github.com/surbhikapoor19) 
