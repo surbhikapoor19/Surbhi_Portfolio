@@ -1,4 +1,7 @@
-# Surbhi Kapoor's Portfolio
+## Overview 
+Hi:) I am a Data Scientist currently pursuing my Masters in Data Science. I have worked in the industry for 6+ years - multitasking but mostly building out ML pipelines from ideation to deployment. I have worked with various libraries and supllement database related work with SQL. 
+Currently I am thoroughly enjoying being in the academic space and learning, researching as well as experimenting to my hearts content. I enjoy challenges and am always looking to problem solve in creative and  efficent ways. 
+
 - Data Science and Machine Learning Project contributed and/or built out by me.
 - All projects are primarily built out in Python and SQL.
 
