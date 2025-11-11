@@ -3,8 +3,8 @@
 Hi:) I am a Data Scientist currently pursuing my Masters in Data Science. I have worked in the industry for 6+ years - multitasking but mostly building out ML pipelines from ideation to deployment. I have worked with various libraries and suplement database related work with SQL. 
 
 My work involes:
-  - Fine tuning transformer,
-  - Setting up AI workflows using various state of the art APIs across various proiders,
+  - Fine tuning transformer
+  - Setting up AI workflows using various state of the art APIs across various proiders
   - Building and tuning statistical and other machine learning models and their pipelines
   - Carrying out data analysis, reporting and inferences on variety of datasets
   - Building out visualizations, business intelligence dashboards and model performance dashboards
@@ -88,4 +88,4 @@ Technologies: Python, FastAPI, PostgreSQL, SQLModel, Multi-Carrier APIs, Concurr
 ### [Statistical Machine Learning for Insights on Supermarket Style Data](https://github.com/surbhikapoor19/ds502-project)
 
 # Contact Details
-## surbhi.kapoor19@gmail.com |[Linkedin Profile](https://www.linkedin.com/in/surbhikapoor19/) | [@surbhikapoor19](https://github.com/surbhikapoor19) |
+## surbhi.kapoor19@gmail.com |[Linkedin Profile](https://www.linkedin.com/in/surbhikapoor19/) | [@surbhikapoor19](https://github.com/surbhikapoor19) 
