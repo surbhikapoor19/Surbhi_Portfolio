@@ -77,6 +77,22 @@ Built a carbon emissions tracking system with multi-carrier API integration and 
 
 ---
 
+### Receipts OCR Segmentation  
+<div class="project-card">
+<a href="https://github.com/surbhikapoor19/receipts_ocr_segmentation" target="_blank">Project Repository</a>
+</div>
+
+This project is a easy to customize template code for extract text via OCR + LLMs as well as output layout information and label tags (classification)
+  - Streamlit prototype ready to upload test receipts
+  - Code to add keywords and enhance classifications
+  - Visualization utils to show tags and help add context for future training data
+  - Test case suite built out
+  - Modular code and easy credentials setup
+
+![](/images/segmented_ocr.png)
+
+---
+
 ### Statistical ML on Supermarket Data
 <div class="project-card">
 <a href="https://github.com/surbhikapoor19/ds502-project" target="_blank">Project Repository</a>
@@ -88,6 +104,7 @@ EDA and business decisions based on statistical analysis on supermarket sales da
 ![](/images/models_comparison.png)
 
 
+---
 ## Work Experience {#work-experience}
 
 ### Quaxar — Data Scientist / ML Product Lead  
@@ -103,13 +120,6 @@ EDA and business decisions based on statistical analysis on supermarket sales da
 - Built NLP classification pipelines using BERT, spaCy, scikit-learn, pandas, and NumPy  
 - Performed EDA and developed BI dashboards for product and operations teams  
 - Worked across modeling, data workflows, and business intelligence in a startup setting  
-
----
-
-## Other Standalone Projects
-
-### [Receipts OCR Segmentation](https://github.com/surbhikapoor19/receipts_ocr_segmentation)  
-
 
 ---
 
