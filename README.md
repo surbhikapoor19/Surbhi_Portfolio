@@ -77,6 +77,17 @@ Built a carbon emissions tracking system with multi-carrier API integration and 
 
 ---
 
+### Statistical ML on Supermarket Data
+<div class="project-card">
+<a href="https://github.com/surbhikapoor19/ds502-project" target="_blank">Project Repository</a>
+</div>
+
+EDA and business decisions based on statistical analysis on supermarket sales data. We eventually trained models to predict profit margin across products and analyzed feature importance.
+
+![](/images/supermarket_trend.png)![](/images/profit_margins.png)
+![](/images/models_comparison.png)
+
+
 ## Work Experience {#work-experience}
 
 ### Quaxar — Data Scientist / ML Product Lead  
@@ -98,7 +109,7 @@ Built a carbon emissions tracking system with multi-carrier API integration and 
 ## Other Standalone Projects
 
 ### [Receipts OCR Segmentation](https://github.com/surbhikapoor19/receipts_ocr_segmentation)  
-### [Statistical ML on Supermarket Data](https://github.com/surbhikapoor19/ds502-project)
+
 
 ---
 
