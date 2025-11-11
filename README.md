@@ -42,7 +42,7 @@ Demonstrated that psychological distress can be predicted from readily available
 **Impact:** This work provides a practical framework for mental health screening programs using accessible data points, enabling early identification and personalized preventative care without requiring invasive testing or extensive medical history.
 
 ![mental_health_eda](/images/mental_health_eda.png)
-------------
+
 
 ### [Assessing Underserved Regions (using ML) - NYC Transit System](https://github.com/We-Gold/ds-501-cs4-public)
 In this project, we identified areas in New York City (NYC) that are underrepresented in transit accessibility. We wanted to understand areas of opportunity (defined as currently underserved areas where we predict people would have high public transportation usage) where the MTA could create a transit station that we believe will receive a lot of foot traffic and ticket sales.
@@ -58,7 +58,6 @@ Source - https://stackoverflow.com/a
 Posted by Tieme, modified by community. See post 'Timeline' for change history
 Retrieved 2025-11-07, License - CC BY-SA 4.0
 -->
--------
 
 ### [WPI Greenboard - Carbon Emission Visibility](https://github.com/We-Gold/wpi-greenboard)
 A full-stack carbon emissions tracking system for Worcester Polytechnic Institute that quantifies the environmental impact of campus package deliveries through multi-carrier API integration and intelligent emissions calculations.
@@ -84,8 +83,8 @@ Technologies: Python, FastAPI, PostgreSQL, SQLModel, Multi-Carrier APIs, Concurr
 - Worked across modeling, data engineering, and BI in a fast-paced startup environment.
 
 ## Other Standalone Projects 
-### [Receipts OCR Segmentation - Customizable code for segmenting receipt like documents](https://github.com/surbhikapoor19/receipts_ocr_segmentation)
-### [Statistical Machine Learning for Insights on Supermarket Style Data](https://github.com/surbhikapoor19/ds502-project)
+### 1. [Receipts OCR Segmentation - Customizable code for segmenting receipt like documents](https://github.com/surbhikapoor19/receipts_ocr_segmentation)
+### 2. [Statistical Machine Learning for Insights on Supermarket Style Data](https://github.com/surbhikapoor19/ds502-project)
 
 # Contact Details
-## surbhi.kapoor19@gmail.com |[Linkedin Profile](https://www.linkedin.com/in/surbhikapoor19/) | [@surbhikapoor19](https://github.com/surbhikapoor19) 
+#### surbhi.kapoor19@gmail.com |[Linkedin Profile](https://www.linkedin.com/in/surbhikapoor19/) | [@surbhikapoor19](https://github.com/surbhikapoor19) 
