@@ -1,6 +1,14 @@
 # Surbhi Kapoor
 ## Overview 
-Hi:) I am a Data Scientist currently pursuing my Masters in Data Science. I have worked in the industry for 6+ years - multitasking but mostly building out ML pipelines from ideation to deployment. I have worked with various libraries and supllement database related work with SQL. 
+Hi:) I am a Data Scientist currently pursuing my Masters in Data Science. I have worked in the industry for 6+ years - multitasking but mostly building out ML pipelines from ideation to deployment. I have worked with various libraries and suplement database related work with SQL. 
+
+My work involes:
+  - Fine tuning transformer,
+  - Setting up AI workflows using various state of the art APIs across various proiders,
+  - Building and tuning statistical and other machine learning models and their pipelines
+  - Carrying out data analysis, reporting and inferences on variety of datasets
+  - Building out visualizations, business intelligence dashboards and model performance dashboards
+    
 Currently I am thoroughly enjoying being in the academic space and learning, researching as well as experimenting to my hearts content. I enjoy challenges and am always looking to problem solve in creative and  efficent ways. 
 
 - Data Science and Machine Learning Project contributed and/or built out by me.
