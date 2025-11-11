@@ -116,5 +116,7 @@ Built a carbon emissions tracking system with multi-carrier API integration and 
 
 ## Contact
 **Email:** surbhi.kapoor19@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/surbhikapoor19  
-**GitHub:** https://github.com/surbhikapoor19
+
+**LinkedIn:** [https://www.linkedin.com/in/surbhikapoor19](https://www.linkedin.com/in/surbhikapoor19)
+
+**GitHub:** [https://github.com/surbhikapoor19](https://github.com/surbhikapoor19)
