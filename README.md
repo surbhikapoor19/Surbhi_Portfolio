@@ -56,3 +56,21 @@ A full-stack carbon emissions tracking system for Worcester Polytechnic Institut
 Technologies: Python, FastAPI, PostgreSQL, SQLModel, Multi-Carrier APIs, Concurrent Processing
 ![](/images/package_details_greenboard.png)![](/images/leaderboard_greenboard.png)
 
+## [Quaxar — Data Scientist / ML Product Lead ](https://github.com/surbhikapoor19/quaxar_fraud_platform)
+*May 2025 – Aug 2025*  
+- Built and deployed an end-to-end fraud detection platform using LayoutLMv3, SentenceTransformers, and XGBoost ensembles.  
+- Integrated OpenAI APIs for OCR assistance, document integrity scoring, and text-based fraud detection.  
+- Developed containerized model services with FastAPI and Docker and deployed on AWS.  
+- Owned architecture, experimentation, stakeholder communication, demos, and final delivery.
+
+## Ottimate (formerly Plate IQ) — Senior Data Scientist  
+*Aug 2018 – Apr 2024*  
+- Fine tuned transformer-based NLP models for document processing and entity extraction across millions of invoice and grocery line item records.  
+- Built classification and text normalization pipelines with BERT, spaCy, scikit-learn, pandas, and NumPy.  
+- Performed extensive EDA, created dashboards and reports for finance and product teams, and communicated insights to technical and non-technical stakeholders.  
+- Worked across modeling, data engineering, and BI in a fast-paced startup environment.
+
+# Other standalone projects 
+## [Receipts OCR Segmentation - Customizable code for segmenting receipt like documents](https://github.com/surbhikapoor19/receipts_ocr_segmentation)
+## [Statistical Machine Learning for Insights on Supermarket Style Data](https://github.com/surbhikapoor19/ds502-project)
+
