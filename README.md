@@ -3,8 +3,8 @@
 - All projects are primarily built out in Python and SQL.
 
 
-
-## [Mental Health Risk Prediction: NHIS Analysis](https://github.com/surbhikapoor19/nhis_mental_health_survey)
+## Research Projects / Apps (Academic)
+### [Mental Health Risk Prediction: NHIS Analysis](https://github.com/surbhikapoor19/nhis_mental_health_survey)
 **Research Question:** Can a machine learning model using baseline demographic, behavioral, and social factors predict future psychological distress (K6 ≥ 5) with ≥70% accuracy, and identify the most important modifiable risk factors for early intervention?
 Dataset: 2024 National Health Interview Survey (NHIS) from the CDC's National Center for Health Statistics
 
@@ -32,7 +32,7 @@ Demonstrated that psychological distress can be predicted from readily available
 ![mental_health_eda](/images/mental_health_eda.png)
 ------------
 
-## [Assessing Underserved Regions (using ML) - NYC Transit System](https://github.com/We-Gold/ds-501-cs4-public)
+### [Assessing Underserved Regions (using ML) - NYC Transit System](https://github.com/We-Gold/ds-501-cs4-public)
 In this project, we identified areas in New York City (NYC) that are underrepresented in transit accessibility. We wanted to understand areas of opportunity (defined as currently underserved areas where we predict people would have high public transportation usage) where the MTA could create a transit station that we believe will receive a lot of foot traffic and ticket sales.
 
 To solve this problem, we determined the average distance to a transit station from areas all over NYC. We then determined if the area is worth investing in (would a transit station here be profitable?) by looking at predicted ridership. Each subway ride in NYC earns $2.90 per ride per person (https://www.mta.info/fares-tolls/subway-bus), and since we can predict weekly ridership, we will predict weekly revenue based on that predicted ridership.
@@ -48,7 +48,7 @@ Retrieved 2025-11-07, License - CC BY-SA 4.0
 -->
 -------
 
-## [WPI Greenboard - Carbon Emission Visibility](https://github.com/We-Gold/wpi-greenboard)
+### [WPI Greenboard - Carbon Emission Visibility](https://github.com/We-Gold/wpi-greenboard)
 A full-stack carbon emissions tracking system for Worcester Polytechnic Institute that quantifies the environmental impact of campus package deliveries through multi-carrier API integration and intelligent emissions calculations.
 
 **My Contributions**: Collaborated on database architecture design and implementation using PostgreSQL with SQLModel ORM. Built the complete emissions calculation stack with speed-based emission factors (0.062-0.82 kg CO2e per tonne-km) and integrated multiple shipping carrier APIs (UPS, FedEx, USPS, DHL) using modular adapter patterns to normalize disparate response formats. Optimized processing performance from 1 to 12-14 packages/second through concurrent processing with ThreadPoolExecutor and intelligent geocoding caching strategies. Developed SQLModel-based FastAPI endpoints powering frontend data queries and visualization.
@@ -56,21 +56,22 @@ A full-stack carbon emissions tracking system for Worcester Polytechnic Institut
 Technologies: Python, FastAPI, PostgreSQL, SQLModel, Multi-Carrier APIs, Concurrent Processing
 ![](/images/package_details_greenboard.png)![](/images/leaderboard_greenboard.png)
 
-## [Quaxar — Data Scientist / ML Product Lead ](https://github.com/surbhikapoor19/quaxar_fraud_platform)
+## Work Expereince 
+### [Quaxar — Data Scientist / ML Product Lead ](https://github.com/surbhikapoor19/quaxar_fraud_platform)
 *May 2025 – Aug 2025*  
 - Built and deployed an end-to-end fraud detection platform using LayoutLMv3, SentenceTransformers, and XGBoost ensembles.  
 - Integrated OpenAI APIs for OCR assistance, document integrity scoring, and text-based fraud detection.  
 - Developed containerized model services with FastAPI and Docker and deployed on AWS.  
 - Owned architecture, experimentation, stakeholder communication, demos, and final delivery.
 
-## Ottimate (formerly Plate IQ) — Senior Data Scientist  
+### Ottimate (formerly Plate IQ) — Senior Data Scientist  
 *Aug 2018 – Apr 2024*  
 - Fine tuned transformer-based NLP models for document processing and entity extraction across millions of invoice and grocery line item records.  
 - Built classification and text normalization pipelines with BERT, spaCy, scikit-learn, pandas, and NumPy.  
 - Performed extensive EDA, created dashboards and reports for finance and product teams, and communicated insights to technical and non-technical stakeholders.  
 - Worked across modeling, data engineering, and BI in a fast-paced startup environment.
 
-# Other standalone projects 
-## [Receipts OCR Segmentation - Customizable code for segmenting receipt like documents](https://github.com/surbhikapoor19/receipts_ocr_segmentation)
-## [Statistical Machine Learning for Insights on Supermarket Style Data](https://github.com/surbhikapoor19/ds502-project)
+## Other Standalone Projects 
+### [Receipts OCR Segmentation - Customizable code for segmenting receipt like documents](https://github.com/surbhikapoor19/receipts_ocr_segmentation)
+### [Statistical Machine Learning for Insights on Supermarket Style Data](https://github.com/surbhikapoor19/ds502-project)
 
