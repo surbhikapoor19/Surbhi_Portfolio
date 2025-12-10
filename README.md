@@ -31,7 +31,7 @@ I am currently enjoying being in an academic environment where I get to research
 
 ### Mental Health Risk Prediction (NHIS)
 <div class="project-card">
-<a href="https://github.com/surbhikapoor19/nhis_mental_health_survey" target="_blank">Project Repository</a>
+<a href="https://github.com/surbhikapoor19/mental_health_distress_predictor" target="_blank">Project Repository</a>
 </div>
 
 **Goal:** Predict psychological distress risk using demographic and behavioral survey data.  
