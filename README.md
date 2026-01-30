@@ -1,12 +1,7 @@
-# Surbhi Kapoor
-
-<div class="hero-section">
-<p class="tagline">Data Scientist & ML Engineer</p>
-<p class="hero-links">
+<div class="hero-links">
 <a href="https://www.linkedin.com/in/surbhikapoor19" target="_blank">LinkedIn</a> · 
 <a href="https://github.com/surbhikapoor19" target="_blank">GitHub</a> · 
 <a href="mailto:surbhi.kapoor19@gmail.com">Email</a>
-</p>
 </div>
 
 ## About Me
@@ -45,7 +40,7 @@ Currently focused on **Document AI**, **Healthcare ML**, and **Agentic Workflows
 
 <div class="project-card" onclick="toggleProject('mental-health')">
 <div class="project-image">
-<img src="/images/mental_health_eda.png" alt="Mental Health Risk Prediction">
+<img src="images/mental_health_eda.png" alt="Mental Health Risk Prediction">
 <div class="project-overlay">
 <span class="expand-icon">+</span>
 </div>
@@ -59,7 +54,7 @@ Currently focused on **Document AI**, **Healthcare ML**, and **Agentic Workflows
 
 <div class="project-card" onclick="toggleProject('nyc-transit')">
 <div class="project-image">
-<img src="/images/nyc_project_areas_of_opportunity.png" alt="NYC Transit Analysis">
+<img src="images/nyc_project_areas_of_opportunity.png" alt="NYC Transit Analysis">
 <div class="project-overlay">
 <span class="expand-icon">+</span>
 </div>
@@ -73,7 +68,7 @@ Currently focused on **Document AI**, **Healthcare ML**, and **Agentic Workflows
 
 <div class="project-card" onclick="toggleProject('greenboard')">
 <div class="project-image">
-<img src="/images/package_details_greenboard.png" alt="WPI Greenboard">
+<img src="images/package_details_greenboard.png" alt="WPI Greenboard">
 <div class="project-overlay">
 <span class="expand-icon">+</span>
 </div>
@@ -87,7 +82,7 @@ Currently focused on **Document AI**, **Healthcare ML**, and **Agentic Workflows
 
 <div class="project-card" onclick="toggleProject('ocr')">
 <div class="project-image">
-<img src="/images/segmented_ocr.png" alt="Receipts OCR">
+<img src="images/segmented_ocr.png" alt="Receipts OCR">
 <div class="project-overlay">
 <span class="expand-icon">+</span>
 </div>
@@ -101,7 +96,7 @@ Currently focused on **Document AI**, **Healthcare ML**, and **Agentic Workflows
 
 <div class="project-card" onclick="toggleProject('supermarket')">
 <div class="project-image">
-<img src="/images/supermarket_trend.png" alt="Supermarket ML">
+<img src="images/supermarket_trend.png" alt="Supermarket ML">
 <div class="project-overlay">
 <span class="expand-icon">+</span>
 </div>
@@ -125,7 +120,7 @@ Currently focused on **Document AI**, **Healthcare ML**, and **Agentic Workflows
 </div>
 <div class="details-body">
 <div class="details-images">
-<img src="/images/mental_health_eda.png" alt="Mental Health EDA">
+<img src="images/mental_health_eda.png" alt="Mental Health EDA">
 </div>
 <div class="details-text">
 <p><strong>Goal:</strong> Predict psychological distress risk using demographic and behavioral survey data.</p>
@@ -155,7 +150,7 @@ Currently focused on **Document AI**, **Healthcare ML**, and **Agentic Workflows
 </div>
 <div class="details-body">
 <div class="details-images">
-<img src="/images/nyc_project_areas_of_opportunity.png" alt="NYC Transit Analysis">
+<img src="images/nyc_project_areas_of_opportunity.png" alt="NYC Transit Analysis">
 </div>
 <div class="details-text">
 <p>Identified underserved regions by calculating accessibility gaps and modeled predicted ridership and revenue to support investment decisions.</p>
@@ -179,8 +174,8 @@ Currently focused on **Document AI**, **Healthcare ML**, and **Agentic Workflows
 </div>
 <div class="details-body">
 <div class="details-images">
-<img src="/images/package_details_greenboard.png" alt="Package Details">
-<img src="/images/leaderboard_greenboard.png" alt="Leaderboard">
+<img src="images/package_details_greenboard.png" alt="Package Details">
+<img src="images/leaderboard_greenboard.png" alt="Leaderboard">
 </div>
 <div class="details-text">
 <p>Built a carbon emissions tracking system with multi-carrier API integration and optimized batch geocoding and throughput performance.</p>
@@ -205,7 +200,7 @@ Currently focused on **Document AI**, **Healthcare ML**, and **Agentic Workflows
 </div>
 <div class="details-body">
 <div class="details-images">
-<img src="/images/segmented_ocr.png" alt="OCR Segmentation">
+<img src="images/segmented_ocr.png" alt="OCR Segmentation">
 </div>
 <div class="details-text">
 <p>A customizable template for extracting text via OCR + LLMs with layout information and label tags.</p>
@@ -231,9 +226,9 @@ Currently focused on **Document AI**, **Healthcare ML**, and **Agentic Workflows
 </div>
 <div class="details-body">
 <div class="details-images">
-<img src="/images/supermarket_trend.png" alt="Supermarket Trends">
-<img src="/images/profit_margins.png" alt="Profit Margins">
-<img src="/images/models_comparison.png" alt="Models Comparison">
+<img src="images/supermarket_trend.png" alt="Supermarket Trends">
+<img src="images/profit_margins.png" alt="Profit Margins">
+<img src="images/models_comparison.png" alt="Models Comparison">
 </div>
 <div class="details-text">
 <p>EDA and business decisions based on statistical analysis on supermarket sales data. Trained models to predict profit margin across products and analyzed feature importance.</p>
